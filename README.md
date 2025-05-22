@@ -40,7 +40,8 @@ Murooj aims to bridge the gap between local vegetable and fruit stores and custo
 ## Installation
 
 # Clone the repo
-https://github.com/ajlouni77/Murooj.git
+https://github.com/ajlouni77/murooj2
+
 # Install backend dependencies
 cd backend
 npm install
